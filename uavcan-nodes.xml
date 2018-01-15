@@ -1,5 +1,4 @@
 <manifest>
 	<remote name="github" fetch="ssh://git@github.com/"/>
-	<default revision="refs/head/master"/>
 	<project name="UAVCAN/libuavcan" remote="github" path="libuavcan"/>
 </manifest>
