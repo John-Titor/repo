@@ -2,5 +2,5 @@
 	<remote name="github" fetch="ssh://git@github.com/"/>
 	<default revision="refs/heads/master"/>
 	<project name="UAVCAN/libuavcan" remote="github" path="libuavcan"/>
-	<project name="John-Titor/uavcan-nodes" remote="github" path="uavcan-nodes"/>
+	<project name="John-Titor/uavcan-nodes" remote="github" path="."/>
 </manifest>
