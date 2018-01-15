@@ -1,4 +1,2 @@
 <manifest>
-<remote name="john-titor-github" fetch="https://github.com"/>
-<default revision="refs/heads/master" remote="john-titor-github" sync-j="4"/>
 </manifest>

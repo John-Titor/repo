@@ -1,0 +1,6 @@
+<manifest>
+<remote name="john-titor@github" fetch="ssh://git@github.com/John-Titor/">
+<remote name="UAVCAN@github" fetch="ssh://git@github.com/UAVCAN">
+<default revision="refs/head/master">
+<project name="UAVCAN/libuavcan" remote="UAVCAN@github" path="libuavcan"
+</manifest>
